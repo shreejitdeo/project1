@@ -6,7 +6,6 @@ counter = 0
 for i in string:
     # print("Index",i)
     # print("counter",counter)
-
     # print("length",len(string) )
     if counter < len(string) - 1:
         if string[counter] == "(":
